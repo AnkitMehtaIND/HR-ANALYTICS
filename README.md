@@ -25,3 +25,6 @@ Business understanding of HR KPIs
 🌟 Goal
 
 To present HR data in a visually compelling and actionable way — turning analytics into decisions that matter.
+
+
+file:///C:/Users/Music%20Only/Downloads/Power%20BI%20Project%20HR-ANALYTICS%20(1)
